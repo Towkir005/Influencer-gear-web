@@ -140,3 +140,21 @@ body{
 .card p{
   font-size: 14px;
 }
+.footer{
+  background: #0A0826;
+  color: #FFFFFF;
+  padding: 40px;
+  text-align: center;
+}
+.footer h3{
+  font-size: 24px;
+  margin-bottom: 3px;
+}
+.footer p{
+  font-size: 14px;
+  margin: 0 auto;
+}
+.social-icon i{
+  color:#FFFFFF ;
+  gap: 36px;
+}
