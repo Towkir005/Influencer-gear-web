@@ -140,6 +140,49 @@ body{
 .card p{
   font-size: 14px;
 }
+.gear{
+  padding: 100px 165px;
+}
+
+.gear-container{
+  max-width: 1110px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 96px;
+}
+
+.gear-image img{
+  width: 404px;
+  height: 270px;
+  border-radius: 8px;
+}
+
+.gear-content h2{
+  font-size: 38px;
+  white-space: nowrap;
+  margin-bottom: 16px;
+}
+
+.gear-content p{
+  font-size: 16px;
+  font-weight: bold;
+  line-height: 28px;
+  color: #6C6C6C;
+  margin-bottom: 16px;
+}
+
+.button{
+  padding: 10px 35px 10px 24px;
+  background: #E02C6D;
+  color: #FFFFFF;
+  border: none;
+  font-size: 16px;
+  font-weight: bold;
+  align-items: center;
+  gap: 8px;
+}
 .footer{
   background: #0A0826;
   color: #FFFFFF;
@@ -158,3 +201,4 @@ body{
   color:#FFFFFF ;
   gap: 36px;
 }
+
